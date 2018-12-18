@@ -1,42 +1,15 @@
 ---
-title: 'Chapter Title Here'
-description: 'Chapter description goes here.'
+title: 'Introduction to Data Pipelines'
+description: 'Building Data Pipelines with Spark'
 ---
 
-## Example coding exercise
+## Insert exercise title here
 
 ```yaml
-type: NormalExercise
-key: e8c1edbe67
-lang: python
-xp: 100
-skills: 2
+type: VideoExercise
+key: ea673b7fd2
+xp: 50
 ```
 
-This is an example exercise.
-
-`@instructions`
-
-
-`@hint`
-
-
-`@pre_exercise_code`
-```{python}
-
-```
-
-`@sample_code`
-```{python}
-
-```
-
-`@solution`
-```{python}
-
-```
-
-`@sct`
-```{python}
-
-```
+`@projector_key`
+2f7077a698689f9dfae0cb63f939b77e
