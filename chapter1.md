@@ -3,7 +3,7 @@ title: 'Introduction to Data Pipelines'
 description: 'Building Data Pipelines with Spark'
 ---
 
-## Insert exercise title here
+## Introduction to Data Pipelines
 
 ```yaml
 type: VideoExercise
